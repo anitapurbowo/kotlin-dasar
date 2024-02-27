@@ -10,4 +10,7 @@ fun main() {
     println(1.0/2.0)
     println(2.0*3.5)
 
+    var int1 = 5
+    var int2 = 10
+    println (int1+int2)
 }
